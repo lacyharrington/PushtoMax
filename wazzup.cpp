@@ -1,5 +1,5 @@
 #include <cstdio>
 int main()
 {
-	printf("wazzup");
+	printf("wazzup lacy");
 }
